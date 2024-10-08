@@ -1,1 +1,3 @@
-# git-practice
+ am ernest 
+ learning about git
+ 
